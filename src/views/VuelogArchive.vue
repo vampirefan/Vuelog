@@ -27,7 +27,7 @@
     </div>
 
     <div v-if="displayType === 'archive'" class="archive-body">
-      <h2 v-text="$t('archive.byCategory')"></h2>
+      <!-- <h2 v-text="$t('archive.byCategory')"></h2>
       <ul>
         <li v-for="(category, index) in archive.postsByCategory" :key="index">
           <h4>
@@ -42,9 +42,9 @@
             <li v-if="category.posts.length === 0" v-text="$t('archive.empty')"></li>
           </ul>
         </li>
-      </ul>
+      </ul> -->
 
-      <h2 v-text="$t('archive.byYear')"></h2>
+      <!-- <h2 v-text="$t('archive.byYear')"></h2> -->
       <ul>
         <li v-for="(year, index) in archive.postsByYear" :key="index">
           <h4>
@@ -53,21 +53,22 @@
           </h4>
           <ul>
             <li v-for="(post, index) in year.posts" :key="index">
+              <span v-text="getMonthAndDay(post.date) + ': '"></span>
               <router-link :to="{name: 'post', params: {category: post.category, slug: post.slug, year: post.year}}" v-text="i18nify(post.title)"></router-link>
-              <span> ( </span>
+              <!-- <span> (</span>
               <router-link :to="{name: 'category', params: {category: post.category}}" v-text="i18nify(post.categoryTitle)"></router-link>
-              <span> )</span>
+              <span> )</span> -->
             </li>
           </ul>
         </li>
       </ul>
 
-      <h2 v-text="$t('archive.pages')"></h2>
+      <!-- <h2 v-text="$t('archive.pages')"></h2>
       <ul>
         <li v-for="(page, index) in archive.pages" :key="index" v-if="!page.exclude">
           <router-link :to="{name: 'page', params: {page: page.slug}}" v-text="i18nify(page.title)"></router-link>
         </li>
-      </ul>
+      </ul> -->
     </div>
   </div>
 </template>
@@ -138,6 +139,10 @@
 
       i18nify (content) {
         return retrieveByLanguage(content, this.active, this.config.defaultLang)
+      },
+
+      getMonthAndDay (date) {
+        return date.substring(5)
       },
 
       getPostsInCategory (slug) {

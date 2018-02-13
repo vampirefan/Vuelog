@@ -139,7 +139,9 @@
 
   .posts-body
     flex 1
+    text-align:justify
 
   .post
-    margin-bottom 20px
+    margin-bottom 45px
 </style>
+

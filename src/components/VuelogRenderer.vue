@@ -291,6 +291,7 @@
     &:hover
       color #4fc08d
       text-decoration none
+      border-bottom 1px solid #ccc
 
   .content-meta
     color #7f8c8d
@@ -302,6 +303,7 @@
 
   .continue-reading a:hover
     text-decoration none
+    border-bottom 1px solid #42b983
 
   @media screen and (max-width: 999px)
     h1.content-title

@@ -93,13 +93,12 @@ const webpackConfig = merge(baseWebpackConfig, {
         from: path.resolve(__dirname, '../userdata'),
         to: config.build.userdataSubDirectory,
         ignore: ['.*']
+      },
+      {
+        from: path.resolve(__dirname, '../vuelog.js.org'),
+        to: path.resolve(config.build.assetsRoot, 'CNAME'),
+        toType: 'file'
       }
-      // },
-      // {
-      //   from: path.resolve(__dirname, '../vuelog.js.org'),
-      //   to: path.resolve(config.build.assetsRoot, 'CNAME'),
-      //   toType: 'file'
-      // }
     ])
   ]
 })

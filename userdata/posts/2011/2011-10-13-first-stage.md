@@ -1,12 +1,9 @@
----
 title: "First stage"
 date: 2011-10-13 12:48
 author: miemie
 comments: true
-categories: 生活
-tags: 
-- 心情
----
+category: college
+--------------------
 
 **果果初来乍到 瓜瓜请多关照**
 

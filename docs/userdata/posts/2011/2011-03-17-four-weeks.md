@@ -1,11 +1,8 @@
----
 title: "开学第四周了"
 date: 2011-03-17 08:20
 comments: true
-categories: 生活
-tags: 
-- 心情 
----
+category: college
+--------------------
 
 我还是太胆小了。看bbs上comment版又女孩子发帖说“都站旁边了，牵一下手会死啊”。呵呵，是说我吗？
 

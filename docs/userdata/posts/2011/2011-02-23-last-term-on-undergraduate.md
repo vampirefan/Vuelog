@@ -1,9 +1,8 @@
----
 title: "本科最后一个学期开学啦"
 date: 2011-02-23 11:06
 comments: true
-category: 生活
----
+category: college
+--------------------
 
 RT...
 

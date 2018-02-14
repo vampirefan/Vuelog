@@ -1,11 +1,8 @@
----
 title: "The End of the Weekend"
 date: 2011-03-06 15:16
 comments: true
-categories: 生活
-tags: 
-- 心情 
----
+category: college
+--------------------
 
 周末又结束了。明天又得去实验室干活啦。不过这一周还是很开心的。
 

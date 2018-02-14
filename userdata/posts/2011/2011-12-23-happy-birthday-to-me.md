@@ -1,11 +1,9 @@
----
 title: "Happy birthday to me!"
 author: miemie
 date: 2011-12-23 09:23
 comments: true
-categories: 生活
-tags: 心情
----
+category: college
+--------------------
 
 Happy birthday to me!
 

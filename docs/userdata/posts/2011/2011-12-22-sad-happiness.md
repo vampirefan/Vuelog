@@ -1,12 +1,9 @@
----
 title: "瓜瓜最讨厌了"
 author: miemie
 date: 2011-12-22 11:38
 comments: true
-categories: 生活
-tags:
-- 心情
----
+category: college
+--------------------
 
 好久都没哭了
 

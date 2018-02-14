@@ -1,4 +1,4 @@
-layout: post
+
 title: "生活心情"
 date: 2012-06-07 20:33
 comments: true
@@ -9,7 +9,7 @@ category: college
 
 <!-- more -->
 
-<center><object width="600" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://player.youku.com/player.php/sid/XMzE3NDg2Mjcy/v.swf" /><param name="allowfullscreen" value="true" /><param name="quality" value="high" /><param name="allowscriptaccess" value="always" /><embed width="600" height="400" type="application/x-shockwave-flash" src="http://player.youku.com/player.php/sid/XMzE3NDg2Mjcy/v.swf" allowfullscreen="true" quality="high" allowscriptaccess="always" /></object></center>
+<iframe height=400 width=600 src='//player.youku.com/embed/XMzE3NDg2Mjcy' frameborder=0 'allowfullscreen'></iframe>
 
 生活真的就像画面上描述的那么好吗？
 

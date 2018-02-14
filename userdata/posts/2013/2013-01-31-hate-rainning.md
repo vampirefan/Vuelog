@@ -16,5 +16,3 @@ category: college
 想重新用nodejs搭博客框架的，突然没什么兴趣了，这个放进TODO-list吧。博客的代码扔开一段时间不折腾了。github被封了就被封了吧，正好就当是日记记载着自己的feeling吧。
 
 PS：特别特别特别不喜欢雨天。回来后就一直在下雨。很少看到这样消极的自己。Cheer Up! Man!
-
-<embed src="http://music.163.com/style/swf/widget.swf?sid=4370918&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"></embed>

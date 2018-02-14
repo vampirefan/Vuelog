@@ -8,4 +8,4 @@ category: college
 
 <!-- more -->
 
-<iframe width=600 height=400 src='http://player.youku.com/embed/XMzA5NTIxNzI=' frameborder=0 'allowfullscreen'></iframe>
+<iframe width=600 height=400 src='//player.youku.com/embed/XMzA5NTIxNzI=' frameborder=0 'allowfullscreen'></iframe>

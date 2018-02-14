@@ -14,7 +14,7 @@ category: college
 
 这是<无主之地2>的开场CG:（同样的精彩！）
 
-<center><iframe height=400 width=600 src='//player.youku.com/embed/XNDUxMjU1OTI4' frameborder=0 'allowfullscreen'></iframe></center>
+<center><iframe height=400 width=600 src='//player.youku.com/embed/XNDUxODE1MjY4' frameborder=0 'allowfullscreen'></iframe></center>
 
 真的很棒,看以后自己业余能花点时间捣鼓CG的制作了。最近捣鼓了下python和ruby，确实是很容易学习和使用的很有前途的语言~发现看的东西越多，想知道的也越多。很高兴现在还保持着这样高的求知欲!!不管有不有用，学习的过程和结果都是很有成就感的。我喜欢这样的成就感~  ^_^
 
@@ -23,4 +23,3 @@ python学习推荐这个[简明 Python 教程](http://sebug.net/paper/python/),�
 看《浪潮之巅》，确实获益匪浅，一个企业要想长远的发展，势必要有长远眼光的人的领导，AT&T公司和IBM公司不同的命运很能说明问题，机遇对它们来说都不少，问题就出在前者领导层的自私与贪婪，后者的领导者却有着大局有眼光。看到IBM在二战的时候还生产过冲锋枪，令人赞叹。看到微软的盖茨狡猾的拿着DOS到处卖，IBM却没办法，笑了。书写的很生动，极力推荐~
 
 这好些天挺多锻炼的，基本上每天公司学校间要来回跑好多趟，晚上有时还打打乒乓，学学轮滑，吃的也不多，晚上睡觉感觉肚子都很饿着睡的。然而今天称体重却重了1公斤，83公斤了，真是匪夷所思~（希望是体重要下降前的小回升，嘿嘿）
-

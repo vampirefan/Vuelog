@@ -10,11 +10,11 @@ category: college
 <!-- more -->
 
 下面是《无主之地》的开场CG：
-<center><iframe height=400 width=600 src='player.youku.com/embed/XNTE4MDIyNDA0' frameborder=0 'allowfullscreen'></iframe></center>
+<center><iframe height=400 width=600 src='//player.youku.com/embed/XNTE4MDIyNDA0' frameborder=0 'allowfullscreen'></iframe></center>
 
 这是<无主之地2>的开场CG:（同样的精彩！）
 
-<center><iframe height=400 width=600 src='player.youku.com/embed/XNDUxMjU1OTI4' frameborder=0 'allowfullscreen'></iframe></center>
+<center><iframe height=400 width=600 src='//player.youku.com/embed/XNDUxMjU1OTI4' frameborder=0 'allowfullscreen'></iframe></center>
 
 真的很棒,看以后自己业余能花点时间捣鼓CG的制作了。最近捣鼓了下python和ruby，确实是很容易学习和使用的很有前途的语言~发现看的东西越多，想知道的也越多。很高兴现在还保持着这样高的求知欲!!不管有不有用，学习的过程和结果都是很有成就感的。我喜欢这样的成就感~  ^_^
 

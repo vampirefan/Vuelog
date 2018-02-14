@@ -5,16 +5,16 @@ comments: true
 category: college
 --------------------
 
-**2K** 是我很喜欢的一个游戏公司，出的游戏都是精品，可以和暴雪相匹敌。从篮球体育游戏到沙盘游戏<黑手党>，再是现在的FPS<无主之地>，每部在同类游戏中都是佼佼者。不论从可玩性还是画面，甚至是游戏的优化，都做得可以说是无可挑剔。很喜欢<无主之地>的开场动画。那音乐，画面配合得赏心悦目，特别是字幕的带出，一点不给人觉得反感，相反有惊艳的感觉。刚出的2代的开场CG同样是震撼。幻想自己也能学习做出这样的CG甚至是游戏~
+**2K** 是我很喜欢的一个游戏公司，出的游戏都是精品，可以和暴雪相匹敌。从篮球体育游戏到沙盘游戏<黑手党>，再是现在的FPS《无主之地》，每部在同类游戏中都是佼佼者。不论从可玩性还是画面，甚至是游戏的优化，都做得可以说是无可挑剔。很喜欢《无主之地》的开场动画。那音乐，画面配合得赏心悦目，特别是字幕的带出，一点不给人觉得反感，相反有惊艳的感觉。刚出的2代的开场CG同样是震撼。幻想自己也能学习做出这样的CG甚至是游戏~
 
 <!-- more -->
 
-下面是<无主之地>的开场CG：
-<center><iframe height=400 width=600 src='http://player.youku.com/embed/XNTE4MDIyNDA0' frameborder=0 'allowfullscreen'></iframe></center>
+下面是《无主之地》的开场CG：
+<center><iframe height=400 width=600 src='player.youku.com/embed/XNTE4MDIyNDA0' frameborder=0 'allowfullscreen'></iframe></center>
 
 这是<无主之地2>的开场CG:（同样的精彩！）
 
-<center><iframe height=400 width=600 src='http://player.youku.com/embed/XNDUxMjU1OTI4' frameborder=0 'allowfullscreen'></iframe></center>
+<center><iframe height=400 width=600 src='player.youku.com/embed/XNDUxMjU1OTI4' frameborder=0 'allowfullscreen'></iframe></center>
 
 真的很棒,看以后自己业余能花点时间捣鼓CG的制作了。最近捣鼓了下python和ruby，确实是很容易学习和使用的很有前途的语言~发现看的东西越多，想知道的也越多。很高兴现在还保持着这样高的求知欲!!不管有不有用，学习的过程和结果都是很有成就感的。我喜欢这样的成就感~  ^_^
 

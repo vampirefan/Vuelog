@@ -5,7 +5,7 @@ comments: true
 category: college
 --------------------
 
-终于找到`markdown`写`Presentation`的[方法](http://slideshow.rubyforge.org/index.html)了。很理想，很强大，正是我一直想实现的功能。先前找到的[deck.js](http://imakewebthings.com/deck.js/)和[impress.js](http://bartaz.github.com/impress.js)被做成模板集成在`slideshow`这个`ruby gem`里面了。分别可以在[slideshow-deck.js](http://geraldb.github.com/slideshow-deck.js/)和[slideshow-impress.js](http://geraldb.github.com/slideshow-impress.js/)找到。
+终于找到`markdown`写`Presentation`的[方法](http://slideshow.rubyforge.org/index.html)了。很理想，很强大，正是我一直想实现的功能。先前找到的[deck.js](http://imakewebthings.com/deck.js/)和[impress.js](http://impress.js.org)。
 
 <!-- more -->
 

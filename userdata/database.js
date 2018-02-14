@@ -38,7 +38,7 @@ window.VUELOG_DATABASE = {
     postsCount: 6,
 
     // Fill in the shortname to integrate Disqus with your blog.
-    disqusShortname: '',
+    disqusShortname: 'vampirefanblog',
 
     // Fill in the uid to integrate LiveRe with your blog.
     livereUid: '',

@@ -1,13 +1,9 @@
----
 title: "自信的生活着"
 author: vampirefan
 date: 2012-11-23 22:59
 comments: true
-categories: 生活
-tags:
-- 随想
-- 心情
----
+category: college
+--------------------
 
 
 >“做人要自信。比如我就觉得我是世界上最帅的男人，而事实也的确是这样。”  -- 查尔斯·巴克利

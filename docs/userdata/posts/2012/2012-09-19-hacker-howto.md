@@ -1,12 +1,9 @@
----
 title: "hacker~howto"
 author: vampirefan
 date: 2012-09-19 19:11
 comments: true
-categories: 学习
-tags:
-- 随想
----
+category: college
+--------------------
 
 下午想查一查文献，无意中看到这样一篇转载的文章：[黑客是怎样炼成的](http://my.oschina.net/qichang/blog?disp=2)，写的很好，也很令我热血沸腾。里面说的处世态度，处事方法觉得特别有共鸣~
 

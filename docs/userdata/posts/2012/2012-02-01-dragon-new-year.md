@@ -1,12 +1,9 @@
----
 title: "Dragon new year"
 author: miemie
 date: 2012-02-01 08:18
 comments: true
-categories: 生活 
-tags: 
-- 心情
----
+category: college
+--------------------
 
 24载 终于赢来了我人生中的第三个本命年 龙年！
 

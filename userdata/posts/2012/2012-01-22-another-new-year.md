@@ -1,12 +1,8 @@
----
 title: "Another New Year"
 date: 2012-01-22 16:10
 comments: true
-categories: 生活 
-tags: 
-- 音乐
-- 心情
----
+category: college
+--------------------
 
 不知不觉过了一年了
 

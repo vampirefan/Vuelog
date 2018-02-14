@@ -1,13 +1,9 @@
----
 title: "旅途"
 author: vampirefan
 date: 2013-04-28 18:14
 comments: true
-categories: 生活
-tags:
-- 随想
-- 心情 
----
+category: college
+--------------------
 
 旅途百无聊奈，本来想干活写文档的，没什么心情。继续再写一篇感文吧。
 

@@ -1,12 +1,9 @@
----
 title: "Happy birthday to you, my love-Guagua"
 author: miemie
 date: 2012-07-22 23:06
 comments: true
-categories: 生活
-tags:
-- 心情
----
+category: college
+--------------------
 
 老公，23岁，生日快乐！我们一起快乐！
 

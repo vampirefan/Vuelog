@@ -1,13 +1,9 @@
----
 title: "又是雨天"
 author: vampirefan
 date: 2013-01-31 22:03
 comments: true
-categories: 生活
-tags: 
-- 随想
-- 心情 
----
+category: college
+--------------------
 
 原本以为回家了就会开心起来，心情也会放松下来。然而，却是越发有些难受和迷茫。
 <!-- more -->

@@ -1,13 +1,9 @@
----
 layout: post
 title: "生活心情"
 date: 2012-06-07 20:33
 comments: true
-categories: 生活
-tags: 
-- 随想
-- 心情
----
+category: college
+--------------------
 
 微软未来科技宣传片：   
 

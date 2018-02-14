@@ -1,13 +1,9 @@
----
 title: "octopress上audio插件, IOS真机调试"
 author: vampirefan
 date: 2012-09-13 21:47
 comments: true
-categories: 学习
-tags: 
-- octopress
-- Apple
----
+category: college
+--------------------
 
 入手Macbook Pro一段时间了,虽然一直很忙，只有晚上回寝室后摆弄一会会。不过也整顿的差不多了，也有一些体会了。可配置性和快捷性确实是windows不能比的。有些东西趁今天比较空，赶紧的记一记。
 
